@@ -2,7 +2,9 @@
 - 👀 I’m interested in learning and contributing and making new connections with other developers
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on hard ui websites
-- 📫 How to reach me : majidhatamimalekii@gmail.com
+- 📫 How to reach me :
+-   Gmail : majidhatamimalekii@gmail.com
+-   Telegram : https://t.me/majidneo
 - 😄 Pronouns: He/him
 
 <!---
